@@ -10,3 +10,7 @@
 'password=KayajC9s&amp',
 'password=KayajC9s&amp'
 "[""secret_key = 'sg57WNLFoCDZWuuF6bMhTDpHLdCpGuNaEzE4Ikuw'""]"
+['password: oZkgEI2ASI']
+'clientId:m3-advertiser-manager-preprod','token: cKSqReHGdd5Awtl9NP2SJX2sj4sXwCGYj3t1oAIMXwTdidpJ]',
+'token: cKSqReHGdd5Awtl9NP2SJX2sj4sXwCGYj3t1oAIMXwTdidpJ'
+"['pass : fkdev)', 'pass: fkdev)', 'pass :fkdev', 'pass : fkdev']"
